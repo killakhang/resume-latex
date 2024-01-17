@@ -1,0 +1,51 @@
+Certainly! Here's the revised resume with the order of the last two jobs switched:
+
+---
+
+**[Your Name]**
+[Your Contact Information]
+
+**Summary:**
+
+Dynamic Embedded Software Engineer and Project Manager with over six years of experience in developing microprocessor-based firmware, software integration, and application development for embedded Linux environments. Skilled in designing and maintaining board support packages, managing cross-functional projects, and interfacing effectively with clients and teams. Proficient in automating processes and developing CRM and communication systems, with a strong focus on operational efficiency and customer engagement. Adept at strategic planning and technology implementation, contributing to organizational growth and technological advancement.
+
+**Work Experience:**
+
+**Hawaii Bucket List Tours, Hawaii**
+**Project Manager and Lead Technical Officer, [Start Date] - Present**
+- Set up the company's backend infrastructure for improved scalability.
+- Automated systems, contributing to streamlined operations.
+- Facilitated agile scaling for sustained company growth.
+- Developed a custom CRM system.
+- Created an internal wiki and communication system for team collaboration.
+
+**Explore Hawaii Tours, Honolulu**
+**Project Manager and Technical Lead, [Start Date] - Present**
+- Developed the company's backend system, enhancing operational infrastructure and data management.
+- Automated phone, email, website, and chat systems, improving efficiency and customer engagement.
+- Implemented a comprehensive CRM and database system.
+- Integrated partner technologies into the company's ecosystem.
+- Managed new projects, ensuring alignment with company goals.
+
+**Quake Global, San Diego, CA**
+**Embedded Software Engineer, March 2015 - April 2018**
+- Managed projects and served as a liaison between engineering teams, customers, and management.
+- Provided IT support and engaged in customer support.
+- [Other bullet points from your original role]
+
+**Ramona Research**
+**Software Engineer**
+- Involved in project management and technical client liaison.
+- Provided IT and customer support.
+- [Other bullet points from your original role]
+
+**[Other Previous Roles]**
+
+**Education:**
+[Your Education Background]
+
+**Skills:**
+[List of Your Skills]
+
+---
+
